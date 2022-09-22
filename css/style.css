@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0
+}
+
+clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.container {
+width: 1200 px;
+margin:0 auto
+}
+
+h1{
+padding: 10px;
+margin: 10px;
+text-align: center;
+}
+
+
+.titolino {
+margin-bottom: 3rem;
+text-align: center;
+}
+
+
+    
+.title {
+    padding: 2rem 0 3rem;
+    color: rgba(229, 49, 112, 1);
+}
+    
+img {
+    width: 100px;
+    height: 100px;
+}
