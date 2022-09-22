@@ -20,3 +20,14 @@ text-align: center;
 }
 
 
+.titolino {padding: 10px;
+margin: 50px;
+text-align: center;}
+
+.box {background-color: black;
+width: 33.3%;
+height: 33.%;
+padding-left: 50px;} 
+    
+
+    
